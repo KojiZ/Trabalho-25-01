@@ -20,3 +20,6 @@
 .zooms:hover {
     transform: scale(1.06); 
 }
+.tamanho{
+    width: 100%;
+}
