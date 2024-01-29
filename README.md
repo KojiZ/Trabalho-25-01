@@ -12,7 +12,6 @@ Um site simples e dinâmico para apresentarmos um pouquinho de nós, para o mund
     - [BOOTSTRAP](#magic-where-methods)
     - [GITHUB](#magic-where-methods)
 * [Como usamos Git & GitHub](#Como-usamos-o-Git-&-GitHub-😺)
-* [Sub-items](#sub-items)
 * [Instalação do projeto](#Instalação-do-projeto-🛠️)
 	- [Pré-Requisitos](#Pré-requisitos-📋)
 	- [Passo-a-Passo](#Instalando-🖥️)
