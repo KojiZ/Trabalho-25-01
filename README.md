@@ -112,8 +112,7 @@ Seguindo, abra o *cmd.exe* e coloque o seguinte comando para clonar a pasta em s
 - [x]  Desenvolvimento do Projeto
 - [x]  Desenvolvimento do Projeto
 - [ ]  Realização dos Testes
-#### Primeiramente foi criado o repositório para armazenar todo o projeto. Logo, fizemos os clones no computador de cada colaborador para começarmos a dividir as tarefas.
-Em seguida, criamos a base do index.html e colocamos a estutura base no repositório remoto, no GitHub. Daí, cada colaborador desenvolveu sua branch para colocar suas respectivas páginas ao projeto. No fim, foi feito este readme para poder documentar cada detalhe deste projeto.
+#### Primeiramente foi criado o repositório para armazenar todo o projeto. Logo, fizemos os clones no computador de cada colaborador para começarmos a dividir as tarefas. Em seguida, criamos a base do index.html e colocamos a estutura base no repositório remoto, no GitHub. Daí, cada colaborador desenvolveu sua branch para colocar suas respectivas páginas ao projeto. No fim, foi feito este readme para poder documentar cada detalhe deste projeto.
 ## Autores ✒️
 
 Vai lá dar uma  olhadinha nos nossos perfis 😉
